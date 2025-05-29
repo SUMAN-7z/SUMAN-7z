@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Suman Kandi</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
 <hr>
-<h4>About :</h4>
+<h3>About :</h3>
 <br>
-<p>>> Current Focus : I’m a final-year BCA student excited to grow as a full-stack web developer.
+<p>
+>> Current Focus : I’m a final-year BCA student excited to grow as a full-stack web developer.
 
 >> Current Learning : Right now, I'm learning to build responsive web applications using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB.
 I'm also exploring React.js to round out the MERN stack and sharpen my front-end skills.
