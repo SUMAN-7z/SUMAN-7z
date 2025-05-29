@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suman Kandi</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
 <hr>
-<h3>About :</h3>
-<br>
+<h2>About :</h2>
 <p>
 <h4>Current Focus :</h4> I’m a final-year BCA student excited to grow as a full-stack web developer.
 
