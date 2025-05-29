@@ -5,12 +5,12 @@
 <h3>About :</h3>
 <br>
 <p>
->> Current Focus : I’m a final-year BCA student excited to grow as a full-stack web developer.
+<h4>Current Focus :</h4> I’m a final-year BCA student excited to grow as a full-stack web developer.
 
->> Current Learning : Right now, I'm learning to build responsive web applications using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB.
+<h4>Current Learning :</h4> Right now, I'm learning to build responsive web applications using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB.
 I'm also exploring React.js to round out the MERN stack and sharpen my front-end skills.
 
->> Current Goal : My goal is to apply what I'm learning by working on real-world projects and becoming job-ready as a full-stack developer.
+<h4>Current Goal :</h4> My goal is to apply what I'm learning by working on real-world projects and becoming job-ready as a full-stack developer.
 
 I’m actively looking for internships, collaborations, or mentorship that can help me grow and gain hands-on experience in the field.
 </p>
