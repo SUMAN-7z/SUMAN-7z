@@ -1,105 +1,148 @@
-<h1 align="center">## Hi there 👋, I'm Suman Kandi</h1>
-<h3 align="center" style="color:#e5e8b6; ">A passionate MERN Stack developer</h3>
-<h2>About :</h2>
-<p>
-<h4>Current Focus :</h4> I’m a final-year BCA student excited to grow as a full-stack web developer.
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7928ca,50:4c7cf5,100:2afadf&text=Hey,%20I'm%20Ashutosh!&fontColor=ffffff&fontSize=60&stroke=000000&fontAlignY=40&animation=twinkling&strokeWidth=1&section=header&reversal=true)
 
-<h4>Current Learning :</h4> Right now, I'm learning to build responsive web applications using HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB.
-I'm also exploring React.js to round out the MERN stack and sharpen my front-end skills.
+>> ## *Nice to see you ...* 🤗
 
-<h4>Current Goal :</h4> My goal is to apply what I'm learning by working on real-world projects and becoming job-ready as a full-stack developer.
 
-I’m actively looking for internships, collaborations, or mentorship that can help me grow and gain hands-on experience in the field.
+<table align="center">
+  <tr>
+        <td align="center" style="vertical-align: middle; padding: 5px;">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+           alt="Developer GIF"
+           style="border-radius:4px; max-width:110px; width:100%; height:auto;">
+    </td>
+    <td align="center" style="vertical-align: middle; padding: 10px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=40&duration=800&pause=5000&color=1E90FF&width=550&lines=MERN+Stack+Developer" 
+           alt="MERN Stack Developer"><br>
+      <img src="https://readme-typing-svg.demolab.com?font=Faster+One&size=30&duration=500&pause=3000&color=1E90FF&width=420&lines=Learning+DSA+in+Java" 
+           alt="Learning DSA in Java">
+    </td>
+  </tr>
+</table>
 
-</p>
-<hr>
-<hr>
-- 🌱 I’m currently learning **Learn React to complete MERN Stack**
-
--📫 How to reach me **sumankandisuman@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left" >
-<a href="https://www.linkedin.com/in/suman-kandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/suman-kandi" height="30" width="40" /></a>
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<a href="https://instagram.com/_____suman_____7z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_____suman_____7z" height="30" width="40" /></a>
+>> ## *Currently Working On ...*
+<p align="center">
+  <em><b>Building full-stack applications with MERN </b> | <b>Mastering Data Structures & Algorithms in Java</b> | <b>Open to collaborations!</b></em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background-color:#a7c1a8; padding:10px; border:4px solid #ffc107; border-radius:10px"> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a>
-&nbsp;&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> 
-&nbsp;&nbsp;&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a>
-&nbsp;&nbsp;&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
-&nbsp;&nbsp;&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
-&nbsp;&nbsp;&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
-&nbsp;&nbsp;&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a>
-&nbsp;&nbsp;&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
-&nbsp;&nbsp;&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>   
-&nbsp;&nbsp;&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> </p>
+---
+>> ##  *Things I code with ...* 
 
-<hr>
-<hr>
-<h3 style="color:#ffc107">
-const developer = {
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;name : "Suman Kandi",
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title : "Full stack Developer",
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;skills : ["Mongodb","Express","React","Node","JavaScript"]
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;motto :"Codeclean, think big"
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp}
-</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45"/><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45"/><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45"/><br/>
+      <sub>Express</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45"/><br/>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45"/><br/>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/><br/>
+      <sub>TailwindCSS</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45"/><br/>
+      <sub>Java</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45"/><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45"/><br/>
+      <sub>GitHub</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45"/><br/>
+      <sub>CSS</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45"/><br/>
+      <sub>HTML</sub>
+    </td>
+  </tr>
+</table>
 
-<h3 style="color:#ffc107">
-const currentFocus = {
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return "Create Real time Project";
-  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp}
-</h3>
 
+---------
+
+>>##  *Stuffs that I built...*
+<p align="center">
+  <a href="https://github.com/ashutosh-moharana/minimal-ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-moharana&repo=minimal-ecommerce&theme=highcontrast&hide_border=true" width="330" />
+  </a>
+  <a href="https://github.com/ashutosh-moharana/petvivid-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-moharana&repo=petvivid-client&theme=highcontrast&hide_border=true" width="330" />
+  </a>
+  <a href="https://github.com/ashutosh-moharana/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-moharana&repo=portfolio&theme=highcontrast&hide_border=true" width="330" />
+  </a>
+</p>
+
+```yaml
+Minimal E-commerce — A simple MERN-based ecommerce site with Razorpay integration.  
+PetVivid — A platform to report and find lost pets.  
+Portfolio — A personal site showcasing my projects and skills.  
+```
+
+
+---
+
+
+
+>> ##  *My Stats ...*
+
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=ashutosh-moharana&show_icons=true&theme=highcontrast&hide_border=true&rank_icon=github" />
+ <img height="140" src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-moharana&theme=react-dark&hide_border=true" />
+
+</p>
+
+---
+---
+
+<table align="center">
+  <tr>
+    <td align="center" style="vertical-align: middle; padding-right: 10px;">
+      <img src="https://media.giphy.com/media/2HnegrqbSw8mS0wcoQ/giphy.gif"
+           width="50"
+           style="border-radius:50%;"
+           alt="Wave GIF">
+    </td>
+    <td align="center" style="vertical-align: middle;">
+      <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! 💖</b></em>
+    </td>
+  </tr>
+</table>
+
+
+<p align="center" style="margin-top:20px">
+  <a href="mailto:ashutoshmoharana00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://ashutoshmoharana.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-363636?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/ashutosh-moharana" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7928ca,50:4c7cf5,100:2afadf&fontAlignY=30&section=footer&reversal=false&textBg=false)
