@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7928ca,50:4c7cf5,100:2afadf&text=Hey,%20I'm%20Ashutosh!&fontColor=ffffff&fontSize=60&stroke=000000&fontAlignY=40&animation=twinkling&strokeWidth=1&section=header&reversal=true)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7928ca,50:4c7cf5,100:2afadf&text=Hey,%20I'm%20Suman!&fontColor=ffffff&fontSize=60&stroke=000000&fontAlignY=40&animation=twinkling&strokeWidth=1&section=header&reversal=true)
 
 >> ## *Nice to see you ...* 🤗
 
