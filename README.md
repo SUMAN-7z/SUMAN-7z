@@ -104,27 +104,6 @@
   
 </div>
 
-###
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/sumeetsharma01/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
-  </a>
-
-  <a href="https://www.instagram.com/uiux_sumeet/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
-  </a>
-
-  <a href="https://x.com/SumeetS11744683">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
-  </a>
-
-
-</div>
-
-
-###
 
 <div align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="Sumeet011's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sumeet011?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" />  </a></div>
