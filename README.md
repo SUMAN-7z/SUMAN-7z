@@ -82,41 +82,55 @@
 
 
 ---------
+<h1 align="center">Hey 👋What's Up?</h1>
 
->>##  *Stuffs that I built...*
-<p align="center">
-  <a href="https://github.com/ashutosh-moharana/minimal-ecommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-moharana&repo=minimal-ecommerce&theme=highcontrast&hide_border=true" width="330" />
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="python logo"  />
+  
+  
+</div>
+
+###
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/sumeetsharma01/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ashutosh-moharana/petvivid-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-moharana&repo=petvivid-client&theme=highcontrast&hide_border=true" width="330" />
+
+  <a href="https://www.instagram.com/uiux_sumeet/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
   </a>
-  <a href="https://github.com/ashutosh-moharana/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-moharana&repo=portfolio&theme=highcontrast&hide_border=true" width="330" />
+
+  <a href="https://x.com/SumeetS11744683">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter" />
   </a>
-</p>
-
-```yaml
-Minimal E-commerce — A simple MERN-based ecommerce site with Razorpay integration.  
-PetVivid — A platform to report and find lost pets.  
-Portfolio — A personal site showcasing my projects and skills.  
-```
 
 
----
+</div>
 
 
+###
 
->> ##  *My Stats ...*
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="Sumeet011's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sumeet011?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" />  </a></div>
 
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=ashutosh-moharana&show_icons=true&theme=highcontrast&hide_border=true&rank_icon=github" />
- <img height="140" src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-moharana&theme=react-dark&hide_border=true" />
 
-</p>
-
----
----
+###
 
 <table align="center">
   <tr>
