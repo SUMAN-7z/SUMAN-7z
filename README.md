@@ -3,7 +3,7 @@
 >> ## *Nice to see you ...* 🤗
 
 
-<table align="center">
+<!-- <table align="center">
   <tr>
         <td align="center" style="vertical-align: middle; padding: 5px;">
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
@@ -17,7 +17,7 @@
            alt="Learning DSA in Java">
     </td>
   </tr>
-</table>
+</table> -->
 
 >> ## *Currently Working On ...*
 <p align="center">
