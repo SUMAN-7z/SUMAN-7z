@@ -106,8 +106,11 @@
 
 
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="Sumeet011's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Sumeet011?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" />  </a></div>
-
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=&preferLogin=false">
+    <img alt="SUMAN-7z's GitHub Stats"
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/SUMAN-7z?cardType=github&theme=github-dark&fontFamily=&preferLogin=false" />
+  </a>
+</div>
 
 ###
 
