@@ -133,7 +133,7 @@
   <a href="mailto:sumankandisuman@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://suman-7z.onrender.com" target="_blank">
+  <a href="https://suman-7z.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-363636?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
   <a href="https://linkedin.com/in/suman_kandi" target="_blank">
