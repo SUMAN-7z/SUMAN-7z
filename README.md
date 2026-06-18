@@ -46,8 +46,6 @@ public class Suman {
 
 ## 🚀 Tech Stack
 
-<h3 align="center">🎨 Frontend</h3>
-
 <p align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" title="React"/>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" title="JavaScript"/>
@@ -55,25 +53,10 @@ public class Suman {
   <img src="https://skillicons.dev/icons?i=css" width="60" title="CSS3"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" width="60" title="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="60" title="Tailwind CSS"/>
-</p>
-
-<h3 align="center">⚙️ Backend</h3>
-
-<p align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" title="Java"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="60" title="Node.js"/>
   <img src="https://skillicons.dev/icons?i=express" width="60" title="Express.js"/>
-</p>
-
-<h3 align="center">🗄️ Database</h3>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb" width="60" title="MongoDB"/>
-</p>
-
-<h3 align="center">🛠️ Tools & Platforms</h3>
-
-<p align="center">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" title="GitHub"/>
   <img src="https://skillicons.dev/icons?i=git" width="60" title="Git"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="60" title="VS Code"/>
