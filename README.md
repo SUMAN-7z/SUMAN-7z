@@ -105,22 +105,7 @@ public class Suman {
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SUMAN-7z&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUMAN-7z&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SUMAN-7z&theme=tokyonight&utcOffset=5.5" />
-</p>
 
----
-
-# 🐍 Contribution Snake
-
-> **⚠️ This requires a GitHub Action to generate automatically.**
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SUMAN-7z/SUMAN-7z/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
 
