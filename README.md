@@ -65,6 +65,25 @@ public class Suman {
   <img src="https://skillicons.dev/icons?i=render" width="60" title="Render"/>
 </p>
 
+### 🔄 Development Workflow
+
+```mermaid
+graph LR
+    accTitle: Development Workflow
+    accDescr: Step by step process from Idea to Maintenance
+    
+    A(["💡 Idea"]) --> B(["📋 Planning"]) --> C(["🎨 Design"]) --> D(["💻 Development"]) --> E(["🧪 Testing"]) --> F(["🚀 Deployment"]) --> G(["🛠️ Maintenance"])
+
+    style A fill:#1a1b26,stroke:#7aa2f7,stroke-width:2px,color:#c0caf5
+    style B fill:#1a1b26,stroke:#bb9af3,stroke-width:2px,color:#c0caf5
+    style C fill:#1a1b26,stroke:#7dcfff,stroke-width:2px,color:#c0caf5
+    style D fill:#1a1b26,stroke:#9ece6a,stroke-width:2px,color:#c0caf5
+    style E fill:#1a1b26,stroke:#f7768e,stroke-width:2px,color:#c0caf5
+    style F fill:#1a1b26,stroke:#ff9e64,stroke-width:2px,color:#c0caf5
+    style G fill:#1a1b26,stroke:#7aa2f7,stroke-width:2px,color:#c0caf5
+```
+
+---
 # 📊 GitHub Analytics
 
 <p align="center">
